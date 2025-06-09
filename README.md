@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmGottardi
 - 👀 I’m interested in mathematics, physics and programming 
-- 🌱 I’m currently learning programming numerical integrators in C++
+- 🌱 I’m currently learning to program numerical integrators in C++
 - 💞️ I’m looking to collaborate on remakes of old glorious video games
 - 📫 How to reach me: gottardi.massimo@gmail.com 
 
